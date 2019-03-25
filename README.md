@@ -6,7 +6,7 @@
 <br> 
 </p>
 
-TSC-Beta is a **teamspeak server crasher** that allows you to crash any server running Version 3.7.0-Beta 1 and below.
+TSC-Beta is a **teamspeak server crasher** that allows you to crash any server running Version 3.7.0-Beta 1 and below.  
 teamapeak has already fixed this crash but many servers still use this version.
 > Fixed: Server crashed when a client send a malformed login.
 
