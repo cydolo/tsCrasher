@@ -1,6 +1,6 @@
 # Server <3.7.0 Beta-1
 <p align="center">
-  <a href="https://github.com/cydolo/TeamSpeak-Crasher/releases" target="_blank">
+  <a href="https://github.com/cydolo/tsCrasher/releases" target="_blank">
   <img height="45" weight="45" align="center" src="https://pngimage.net/wp-content/uploads/2018/05/button-flat-png-7.png"/>
 </a>
 <br>
