@@ -9,9 +9,7 @@
  <a href="https://twitter.com/cydolo" target="_blank">
 <img  height="30" weight="30" src="http://i.imgur.com/tXSoThF.png"/>
 </a>    
-  <br>
-     <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/cydolo/tsCrasher/1.0.0/total.svg?color=darkcyan&label=Downloads%3A&style=flat-square">
-</p>
+  <br></p>
 
 This is an archive of teamspeak crashes
 > Note: crashes are only for testing purposes
